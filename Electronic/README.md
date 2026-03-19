@@ -40,6 +40,7 @@ The master node is responsible for:
 The slave node is responsible for:
 
 - ORP / Redox measurement
+- ambient temperature measurement
 - providing measurement data to the master via isolated UART communication
 
 ---
@@ -165,6 +166,7 @@ The buttons are connected to GPIO pins and use internal pull-up resistors.
 - 1x **DFRobot pH sensor board**
 - 1x **DFRobot ORP sensor board**
 - 1x **DS18B20 temperature sensor**
+- 1x **AM2302 temperature and humidity Sensor**
 
 ### Isolation and Signal Conditioning
 - 2x **isolated 5V DC/DC converters** (`NME0505SC`)
