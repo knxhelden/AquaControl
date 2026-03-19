@@ -1,6 +1,6 @@
 # 🔌 Electronics
 
-![Circuit Diagram](./Electronic/images/CircuitDiagram.jpg "Circuit Diagram")
+![Circuit Diagram](images/CircuitDiagram.jpg)
 
 ## 📖 Overview
 
